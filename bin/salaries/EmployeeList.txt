@@ -1,0 +1,15 @@
+2014 Employee Smith,John 2000
+2015 Sales Jones,Bill 3000 100000
+2014 Executive Bush,George 5000 55
+2015 Employee Doe,John 2500
+2014 Sales Public,Quincy 2750 255000
+2015 Executive Poindexter,Priscilla 7500 67
+2014 Employee Johnson,Will 2125
+2015 Sales Mercury,Francine 2500 375000
+2014 Executive Griffis,Terry 6350 49
+2015 Employee Huffard,Melissa 2345
+2014 Sales Mills,Patty 2500 265000
+2015 Executive Ryan,Tiffany 5450 51
+2014 Employee Lee,Michelle 3250
+2015 Sales Casey,David 2750 2500000
+2014 Executive Moser,Sarah 6500 35
